@@ -1,5 +1,5 @@
 resources:
   - ../../base
+  - job.yaml
 patches:
   - path: patch.yaml
-  - job.yaml
