@@ -2,3 +2,4 @@ resources:
   - ../../base
 patches:
   - path: patch.yaml
+  - job.yaml
