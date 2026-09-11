@@ -11,6 +11,7 @@ spec:
         env:
         - name: ENV
           value: "development"
+        command: ["sleep", "abc"]
         resources:
           requests:
             cpu: "100m"
